@@ -1,0 +1,21 @@
+FICTIONAL DEMONSTRATION POLICY - FOR ASSIGNMENT & TESTING PURPOSES ONLY
+Organization: NovaCorp Demo Enterprises
+Document: HR Leave and Work-From-Home Policy (v1.0)
+
+Section 1: Annual Leave Policy
+Full-time employees accrue annual leave based on tenure, up to 14-18 days per calendar year depending on band.
+Annual leave requests for 3 or more consecutive days require at least 5 business days of advance notice and manager approval.
+Up to 5 unused annual leave days may carry over into Q1 of the following calendar year; remaining unused days lapse on March 31.
+
+Section 2: Sick Leave Policy
+Employees are entitled to 8 to 10 paid sick leave days per calendar year for personal illness, injury, or medical appointments.
+A medical certificate is required if sick leave exceeds 3 consecutive working days.
+
+Section 3: Maternity Leave Policy
+Eligible female employees receive up to 26 weeks of paid maternity leave in accordance with statutory guidelines.
+Requests should be submitted to HR at least 30 days prior to the expected start date, accompanied by medical documentation.
+
+Section 4: Work-From-Home (WFH) Policy
+Eligible hybrid employees may work from home up to 2 days per week, subject to team coverage and prior manager approval.
+Working from home does not imply automatic approval for any specific date (such as a future Friday); employees must submit a WFH request in the HR portal and receive manager sign-off.
+Employees working remotely must remain reachable during core hours (10:00 AM - 4:00 PM local time) on an approved network.

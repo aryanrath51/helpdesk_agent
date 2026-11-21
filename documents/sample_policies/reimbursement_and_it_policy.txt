@@ -1,0 +1,18 @@
+FICTIONAL DEMONSTRATION POLICY - FOR ASSIGNMENT & TESTING PURPOSES ONLY
+Organization: NovaCorp Demo Enterprises
+Document: Expense Reimbursement and IT Support Policy (v1.0)
+
+Section 1: Expense Reimbursement Process
+Employees may claim reimbursement for approved business travel, client meals within daily caps, and pre-approved training or home-office accessories.
+Claims must be submitted within 30 calendar days of the expense date with itemized receipts attached.
+Finance reviews and disburses approved reimbursements within 10 business days.
+
+Section 2: IT Security Policy
+Employees must use strong unique passwords, enable Multi-Factor Authentication (MFA) on all company accounts, and lock screens when stepping away.
+Connecting to public unsecured Wi-Fi for sensitive work requires the NovaCorp VPN.
+Sharing credentials, bypassing endpoint controls, or installing unverified software is strictly prohibited.
+
+Section 3: Hardware and Software Support
+Standard laptops and peripherals are issued at onboarding and maintained by IT Infrastructure.
+For hardware faults, VPN issues, or software license requests, employees should raise an IT support ticket with the issue category, priority, and description.
+High-priority incidents affecting work continuity are targeted for initial response within 4 business hours.
